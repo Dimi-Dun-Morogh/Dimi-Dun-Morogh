@@ -9,7 +9,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dimi-dun-morogh&show_icons=true&locale=en&layout=compact" alt="dimi-dun-morogh" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dimi-dun-morogh&show_icons=true&locale=en&layout=compact&hide=lua" alt="dimi-dun-morogh" /></p>
 
 
 
